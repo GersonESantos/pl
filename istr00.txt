@@ -1,0 +1,27 @@
+
+Faça um programa em c 
+"
+### Plano Alimentar
+
+**Refeições**:
+numRef  = ("12:00 - Dejejum",  "4:00 - Almoço",  "18:30 - Lanche da tarde" ,  "22:00 - Ceia");
+
+### Requisitos Funcionais
+
+1. **Estrutura de `Alimento`**:
+
+
+    - `nomeAlim` (char[51])
+    - `qtdAli` (float)
+    - `undAli` (char[4])
+    - `kcalAli` (float)
+2. **Função `impPlAlimentar`**:
+    
+    - Imprime no arquivo `saida.csv` e `saida.txt` os detalhes dos alimentos de uma refeição.
+    - Calcula o total de calorias.
+    - Na última linha, imprime `totalCaloriasGeral`, a soma de `totalCalorias` de cada refeicao.
+3. **Função `listaDeCompras`**:
+
+    - Imprime no arquivo `lista.csv` e `lista.txt` os detalhes de uma lista de compra.
+
+ "

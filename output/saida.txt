@@ -1,0 +1,33 @@
+### 12:00 - Dejejum ###
+Banana               125.00 g        124.00 Kcal
+Aveia em flocos      30.00 g        118.00 Kcal
+Coco                 20.00 g        71.00 Kcal
+Whey 3 Protein       30.00 g        126.00 Kcal
+Yakult               100.00 g        51.00 Kcal
+Total de calorias: 490.00 Kcal
+
+### 14:00 - Almoço ###
+Arroz branco         125.00 g        160.00 Kcal
+Feijão carioca      90.00 g        68.00 Kcal
+Cenoura              50.00 g        43.00 Kcal
+Tomate               25.00 g        4.00 Kcal
+Carne Bife           150.00 g        186.00 Kcal
+Total de calorias: 461.00 Kcal
+
+### 18:30 - Lanche da tarde ###
+Tapioca de goma      15.00 g        37.00 Kcal
+Ovo                  3.00 un       189.00 Kcal
+Patinho moída       120.00 g        160.00 Kcal
+Tomate               25.00 g        4.00 Kcal
+Mussarela            30.00 g        85.00 Kcal
+Total de calorias: 475.00 Kcal
+
+### 22:00 - Ceia ###
+Banana               125.00 g        124.00 Kcal
+Chocolate 70%        25.00 g        245.00 Kcal
+Whey 3 Protein       30.00 g        126.00 Kcal
+Coco                 20.00 g        71.00 Kcal
+Castanha             5.00 g        77.00 Kcal
+Total de calorias: 643.00 Kcal
+
+### Total de calorias Geral: 2069.00 Kcal ###
