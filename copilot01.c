@@ -8,7 +8,6 @@ typedef struct {
     char undAli[4];
     float kcalAli;
 } Alimento;
-
 // Função para preencher os dados de um Alimento
 void preencherAlimento(Alimento *alim) {
     printf("Digite o nome do alimento: ");
